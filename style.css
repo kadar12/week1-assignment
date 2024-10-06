@@ -1,3 +1,16 @@
-footer {
-  text-align: center;
+.main {
+  display: flex;
+  justify-content: flex-start;
+  margin: 20px;
+}
+
+.navigation {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.first-info {
+  display: flex;
+  justify-content: space-around;
+  position: absolute;
 }
